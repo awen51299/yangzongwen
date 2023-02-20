@@ -1,9 +1,9 @@
 - type: dates
-  title: Dates
+  title: Characteristic
   url: /dates/
 #- type: categories
 #  title: Categories
 #  url: /categories/
 - type: tags
-  title: Tags
+  title: Interest
   url: /tags/

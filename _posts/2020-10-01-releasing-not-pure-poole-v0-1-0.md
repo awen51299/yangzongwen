@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+title: Internship Experience
+author: Awen
 tags:
 - jekyll theme
 - jekyll
 date: 2020-10-01 13:56 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
+2021-2023 **北京中器华康科技发展有限公司**  研发
 
 Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
